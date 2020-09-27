@@ -1,0 +1,2 @@
+People can't know every things that are going throw this world. So it is media's job to collect the informations and tell it to the peoples. But when the informations they are providing is made up, It might influence people to make a wrong decision. Or sometimes it lead to innocent people being denounced by crowds. So it is important to detect which is fake news.
+So in this project I'm going to make a program which can detect the fake news. 
